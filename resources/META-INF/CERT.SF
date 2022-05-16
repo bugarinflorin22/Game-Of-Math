@@ -1,0 +1,326 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Fdb7Mgt/CnxJ/khYeWDM4J6ti9s=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6ZGDiPsWcFPkEFAZgJoDRsT2QrE=
+
+Name: assets/bin/Data/128e987d567d4e2c824d754223b3f3b0
+SHA1-Digest: BARCyTx0UK+6GbAIYtBaPSsgBLM=
+
+Name: assets/bin/Data/1e3b057af24249748ff873be7fafee47
+SHA1-Digest: wdt+0ONDFzQcfmt5A3SNtyLJaG8=
+
+Name: assets/bin/Data/3997e2241185407d80309a82f9148466
+SHA1-Digest: Fw5lU9Uex2jt3djhDNWMjfhgmOw=
+
+Name: assets/bin/Data/3f5b5dff67a942289a9defa416b206f3
+SHA1-Digest: E3fh0fHISMKllc4p9MmzfNeR6TM=
+
+Name: assets/bin/Data/407bc68d299748449bbf7f48ee690f8d
+SHA1-Digest: l17OgswUthCpLp03IGJnBcbHgfY=
+
+Name: assets/bin/Data/48bb5f55d8670e349b6e614913f9d910
+SHA1-Digest: ExbiZIMeSIrqo73QJ8j40UqfeWY=
+
+Name: assets/bin/Data/68e6db2ebdc24f95958faec2be5558d6
+SHA1-Digest: /t9w70vW2JXL/7h6n7SVQWlrKJA=
+
+Name: assets/bin/Data/79459efec17a4d00a321bdcc27bbc385
+SHA1-Digest: PUTs6TKoS62kKuFYwQXUXBjO1c8=
+
+Name: assets/bin/Data/85187c2149c549c5b33f0cdb02836b17
+SHA1-Digest: 548FttGY7hCDo9R9FModQmumAhg=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA1-Digest: mNzhI0aeH33OwAfgthp/vaWMw+E=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA1-Digest: Eubvl7DT1yRp5/Z3ohYzEUdXL/k=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+SHA1-Digest: OAuC4pFUjhU9+dBXDC2db86sYXk=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: FsFBLT0fLLip4EaU4s+LQT/u/ww=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA1-Digest: vSOV/hJx2RGxou93Bd0y5hDuDP8=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA1-Digest: DxGS2HSj9+jiHYYXNmEX7nEjNd8=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA1-Digest: fEkU9VF6QqLwGamdfk+zkLFNQ5k=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+SHA1-Digest: gmcQD8Mgofh5+WGiDhnai6gxw44=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: 414q0CZY6xFfohWaHrvua7bApz0=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/machine.config
+SHA1-Digest: D9E67fXFG2zSbHnZjbqh1lCXSQo=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/settings.map
+SHA1-Digest: f4i+o28GDhPomoCaAPF8Ezg5//U=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/web.config
+SHA1-Digest: y6xddn1YYdB/AGJ7grzYkHtQNe0=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+SHA1-Digest: 1Uro7wYQRjaZiLscw8Mc60cT0dY=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.as
+ px
+SHA1-Digest: a8b2bb8eqQ5sykPfnTTemZGiD4Y=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/machine.config
+SHA1-Digest: klsY2ghO3/lg01Ae/ZHvSpjowx4=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/settings.map
+SHA1-Digest: K3No2i/GJEr6i8GMmLAjvFg8EgQ=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/web.config
+SHA1-Digest: WrPmBXdtSW+6TpuPBBMWwqVwOTo=
+
+Name: assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA1-Digest: US25TU5cDJX0v1hwobvYRwhnb30=
+
+Name: assets/bin/Data/Managed/etc/mono/config
+SHA1-Digest: MDW/Ih3REdz/11216kEyV2BqPP8=
+
+Name: assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA1-Digest: 73rFutkBXFTvenAn71urSjnRo14=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: RWaT3mtnn3dTVssE2gVzQN1yjMc=
+
+Name: assets/bin/Data/a02a7d8c237544f1962732b55a9aebf1
+SHA1-Digest: J7F6gAehOMWJvCgzIUYG0Pqeg4s=
+
+Name: assets/bin/Data/bc1ede39bf3643ee8e493720e4259791
+SHA1-Digest: HcwtWCP+3aSbUOiekPn8OUo8N0A=
+
+Name: assets/bin/Data/boot.config
+SHA1-Digest: Fp4XdJwT4zzPAM9KDcLrQJOznUs=
+
+Name: assets/bin/Data/c41005c129ba4d66911b75229fd70b45
+SHA1-Digest: awA2hg7oQ4Uw7YFcOj0Gmdtq+Ys=
+
+Name: assets/bin/Data/cf81c85f95fe47e1a27f6ae460cf182c
+SHA1-Digest: nIEI/qxQMBX0k1iKVbWSJUDsxLU=
+
+Name: assets/bin/Data/d82c1b31c7e74239bff1220585707d2b
+SHA1-Digest: xdB6CN7LRB54ZJNrIFlrdln+l3g=
+
+Name: assets/bin/Data/d930090c0cd643c7b55f19a38538c162
+SHA1-Digest: xTr1f+cW7u1SnNRh4u96Y3JC8js=
+
+Name: assets/bin/Data/dd89cf5b9246416f84610a006f916af7
+SHA1-Digest: XaFhICHwFJeCHotkvXh8lPoPfns=
+
+Name: assets/bin/Data/dffef66376be4fa480fb02b19edbe903
+SHA1-Digest: y8mTO9HEfUhgm3csd8TUOt0ULP8=
+
+Name: assets/bin/Data/e73a58f6e2794ae7b1b7e50b7fb811b0
+SHA1-Digest: 928IlUkhfADoZPoDz/EJHXDYUQo=
+
+Name: assets/bin/Data/f7ada0af4f174f0694ca6a487b8f543d
+SHA1-Digest: sHA2VDJ7BhTaHhLPwN+Puz66X0E=
+
+Name: assets/bin/Data/f952c082cb03451daed3ee968ac6c63e
+SHA1-Digest: bxgUCx/hI8ZqCNFMYJjSXTnDEKo=
+
+Name: assets/bin/Data/fade42e8bc714b018fac513c043d323b
+SHA1-Digest: 60UTbGHLdz7mZPLfUUQv4Gq9nf4=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: HTeo3c9thdPUy0u+Q6yO2lhQ2I0=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: A21Js64u2aCTzHz8VmqzgCG5L6I=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: dkrM/mbneIxw/DmD+b5MbdzUKVU=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: C4BoC3dBEjxdsi7lG6h1Gz+aXls=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: ZJWm4Ilske2GWfPu0mK8nh9RWec=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: ETUHPhqYceTtASbH2Cda987NcFA=
+
+Name: assets/bin/Data/sharedassets0.assets.split10
+SHA1-Digest: MFP70B/2DsbHgkrFH0VpXfGi5q0=
+
+Name: assets/bin/Data/sharedassets0.assets.split11
+SHA1-Digest: bFKw8LeZ57BHPgA0GcN+L9TuxmU=
+
+Name: assets/bin/Data/sharedassets0.assets.split12
+SHA1-Digest: pqOrFTfeFOuNcGSAzrKG6M2+3kE=
+
+Name: assets/bin/Data/sharedassets0.assets.split13
+SHA1-Digest: RqiriAnfPFzmtxojAlrrgO3sH1s=
+
+Name: assets/bin/Data/sharedassets0.assets.split14
+SHA1-Digest: xWtZJSL04SAiMqH9MiWHDcZv2vo=
+
+Name: assets/bin/Data/sharedassets0.assets.split15
+SHA1-Digest: rYRS4dTVanJUeTn6D5KbZ1cBpjo=
+
+Name: assets/bin/Data/sharedassets0.assets.split16
+SHA1-Digest: dH9T49ylQuZpqpRXbp+3q3j2MRg=
+
+Name: assets/bin/Data/sharedassets0.assets.split17
+SHA1-Digest: kBW5nQtCghcbaQAJNyXchrpb8sU=
+
+Name: assets/bin/Data/sharedassets0.assets.split18
+SHA1-Digest: Hd7LXSBS0bYgl0mzXaso8ah4I4w=
+
+Name: assets/bin/Data/sharedassets0.assets.split19
+SHA1-Digest: WCBTm1SiwD9uJ09/CM1/dv33fY8=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: nOkTCdwsc89SwvueC4mqyuAQo7U=
+
+Name: assets/bin/Data/sharedassets0.assets.split20
+SHA1-Digest: 4CgcksFiUK8zEuJ1MmDFAwDx+/o=
+
+Name: assets/bin/Data/sharedassets0.assets.split21
+SHA1-Digest: S9VIknXZpurO/vVn0gbXx4tay8Y=
+
+Name: assets/bin/Data/sharedassets0.assets.split22
+SHA1-Digest: 6LSJxCzi+zowkYvrQX4l15ua5O0=
+
+Name: assets/bin/Data/sharedassets0.assets.split23
+SHA1-Digest: GrVXUcxBjYBYSUlwSjpFPdyz+Bc=
+
+Name: assets/bin/Data/sharedassets0.assets.split24
+SHA1-Digest: 1s8S8XAzVrOdUmYrWWoBElvngIw=
+
+Name: assets/bin/Data/sharedassets0.assets.split3
+SHA1-Digest: 8fu0dA7KJltArZOK7Smk9uZB3Jg=
+
+Name: assets/bin/Data/sharedassets0.assets.split4
+SHA1-Digest: uWyvUIyi9+t/aPyhWG9SHzpYppI=
+
+Name: assets/bin/Data/sharedassets0.assets.split5
+SHA1-Digest: K7zk0wvAuj41dBxe7iGz7r2Jq2k=
+
+Name: assets/bin/Data/sharedassets0.assets.split6
+SHA1-Digest: eQVqQI4p9qBbJGdgkBOt5A1UcmU=
+
+Name: assets/bin/Data/sharedassets0.assets.split7
+SHA1-Digest: gQiQq9R2QhFShtSwWd66WHum0VE=
+
+Name: assets/bin/Data/sharedassets0.assets.split8
+SHA1-Digest: 1QEPGqbbhlvVHoeiGlzZj6nXLfA=
+
+Name: assets/bin/Data/sharedassets0.assets.split9
+SHA1-Digest: I5D4GhrKhr+KwbruSpc/O9GQzrA=
+
+Name: assets/bin/Data/sharedassets1.assets.split0
+SHA1-Digest: p5fWufAe3d8ijqFMFJZL+R+d1hE=
+
+Name: assets/bin/Data/sharedassets1.assets.split1
+SHA1-Digest: ZbR0YjvBm2lgI2ZO0+D0dx5JU+U=
+
+Name: assets/bin/Data/sharedassets1.assets.split2
+SHA1-Digest: u3h45UaEYtQZOfn3kfbPHc91IHU=
+
+Name: assets/bin/Data/sharedassets1.assets.split3
+SHA1-Digest: XRIfH22L5gi5OY+sR04Drd9NSBg=
+
+Name: assets/bin/Data/sharedassets1.assets.split4
+SHA1-Digest: 4JRZoUQQP/WG+6O2Hjj53upquMY=
+
+Name: assets/bin/Data/sharedassets1.assets.split5
+SHA1-Digest: rulqbygAIFx2Ad36nS71zBF/aRM=
+
+Name: assets/bin/Data/sharedassets1.assets.split6
+SHA1-Digest: 4UNq6JOUvJk83aY8RDUZUSM7DFs=
+
+Name: assets/bin/Data/sharedassets1.assets.split7
+SHA1-Digest: vVF//YpREnSsG07fBAKgkQWpI/4=
+
+Name: assets/bin/Data/sharedassets1.assets.split8
+SHA1-Digest: Qa9jxOFi4eOc+aqL9fPVo/9CGRo=
+
+Name: assets/bin/Data/sharedassets1.assets.split9
+SHA1-Digest: b6VWdi/aD+avAXtqUVescit3BXA=
+
+Name: assets/bin/Data/sharedassets1.resource
+SHA1-Digest: FdLeK/aUKRDIjTiykutjFThWcRE=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: nn6RDDhjM49jUN14NDP+ESl8LP0=
+
+Name: classes.dex
+SHA1-Digest: pGorDFJ6DuLP6PKuWCTZCf4J4H4=
+
+Name: lib/arm64-v8a/libil2cpp.so
+SHA1-Digest: z1njUufuiHApauJyhJMqi8u6m2A=
+
+Name: lib/arm64-v8a/libmain.so
+SHA1-Digest: hGp1gZpyNV6/8vy0QKZsXXNSnkA=
+
+Name: lib/arm64-v8a/libunity.so
+SHA1-Digest: FcS8oaO4z9hwIXFPSJmjlz9VFhM=
+
+Name: lib/armeabi-v7a/libil2cpp.so
+SHA1-Digest: wiyRzb8AHKwaE/K/PKfKfRt1ZIM=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: JSasllL/eBn7M7N9XqgKmjd6ppA=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: 8riBjd4dePaZPaEpHPGHHkzWjaQ=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: U65U8FYcBcGA/MSWkB3tVRNrXDE=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA1-Digest: hTAvi9/OyMIPdYv4t78/lwuYlFA=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA1-Digest: ABOstcduRm1qZ7Oe8XymgaDTw44=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA1-Digest: 2yoYWR3Avp1t7RkV2lQqMt0Zadw=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA1-Digest: S8xQJpYipcB7918S4sWfdzaUg6A=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA1-Digest: BLRUwwXhazFcFGIipuedDMZxUac=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA1-Digest: RALL1UIudJP2TQKjl/I0jtK5a7U=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA1-Digest: LErncJN8FCZ5nkawKf8AamkGIkE=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA1-Digest: SCT/9vvZsmk3y5Dv9Jw1BTGCOKE=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA1-Digest: I8TCnXO3TkV9nET66D8DTTf7g7o=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA1-Digest: oHiUMRijJ4evY8ZT9pSjljhCBOA=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA1-Digest: O4m7sKFFcxrQiXkmye+z6nNRyrI=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA1-Digest: GnCVtSf12Q8wMM+Y6CpQkpA9r/k=
+
+Name: resources.arsc
+SHA1-Digest: 7oYAH58VfLM/uy/AIu74zHqJi+4=
+
